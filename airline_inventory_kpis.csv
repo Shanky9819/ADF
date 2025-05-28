@@ -1,0 +1,101 @@
+Airline,Inventory Turns,Stockout Rate (%),Aging Stock (%),Avg. Holding Cost (USD)
+BlueBird Air,4.1,2.5,6.6,127094.14
+StellarAir,4.3,3,5.2,111559.14
+Velocity Wings,5.8,3.5,10,126039.75
+Altitude Air,4.7,3.6,10.7,105194.96
+JetStream Air,6.1,2.7,6.1,133716.39
+EagleFly,4.3,2.8,7.5,115318.67
+Sunward Airways,6.4,4.1,8.8,134193.47
+Orion Wings,4.2,2.5,9.4,131563.55
+Pacific Horizon,5.7,4,5.3,111836.95
+Northern Skies,7,4.5,11.1,116403.79
+NovaJet,5.9,2.8,7.6,111285.21
+Sunward Airways,6.1,3.9,5.5,124049.35
+StellarAir,6.2,2.1,7.7,134685.7
+StellarAir,4.7,2.6,10.4,106678.14
+AirNova Express,6.4,2.9,5.5,132394.08
+Zenith Flights,6.6,2.6,9.6,116868.96
+NovaJet,4.4,2,10.2,121169.32
+Zenith Flights,5.3,3.5,7.5,134919.77
+CloudLine,5.5,1.8,5.3,108289.47
+JetStream Air,6.4,3,5.4,116448.58
+NovaJet,5.6,4.9,11,105344.43
+BlueBird Air,6,3.4,6.9,124228.85
+BlueBird Air,4.9,2.1,5,126662.76
+Sunward Airways,6.9,4.2,8.6,108192.32
+Northern Skies,6.5,3.3,6.4,116217.42
+JetStream Air,5.6,4.2,8.7,105017.16
+EagleFly,5.5,1.9,7.5,134559.64
+Northern Skies,4.7,2.3,9,107362.71
+Quantum Skies,6.4,4.9,8.7,108772.82
+Quantum Skies,6.8,2.1,8.7,123197.82
+FalconWings,6.8,4.1,9.8,126388.47
+Orion Wings,7,3.8,8.1,120527.28
+BlueBird Air,4.7,1.7,5.1,121617.65
+Zenith Flights,4.7,1.7,9.4,111868.25
+AirNova Express,6.6,1.7,6.7,125069.33
+FalconWings,5.6,4,11.2,122286.35
+SkyBridge,6.4,4.3,6.3,107907.92
+Altitude Air,5.1,2.9,11,106625.14
+BlueBird Air,4.2,4,10.6,108278.07
+FalconWings,4.6,3.1,8,113356.35
+SkyBridge,6.6,1.8,10.7,130679.01
+BlueBird Air,4.2,5,10.9,134069.89
+SkyBridge,4.5,3.2,6.5,117031.21
+AirNova Express,4.5,1.5,7.7,132795.54
+NovaJet,4.9,3.9,10.1,128500.85
+Quantum Skies,4.5,2.5,11.8,122375.41
+StellarAir,4.2,2.6,5.4,119303.66
+Velocity Wings,4.5,4.9,5.6,110574.75
+PolarStream,4.2,4.5,7.8,133247.88
+Zenith Flights,4.7,3.6,9.3,117576.75
+Zenith Flights,5.7,2.6,6.8,125091.78
+EagleFly,4.7,2.9,9.7,113999.91
+EagleFly,6.8,4.8,5.1,123634.78
+Zenith Flights,7,1.8,6.5,112956.01
+Pacific Horizon,6.6,4.6,7.6,109732.4
+StellarAir,6.1,3.6,11.9,124619.29
+SkyJet Airways,6,3.4,11.5,108107.6
+CloudLine,4.8,4.6,10.2,109663.44
+Northern Skies,5.8,4,6.4,124027.14
+Sunward Airways,5.5,2.4,11.4,106523.97
+Altitude Air,6.5,1.7,7.3,108924.59
+Sunward Airways,4.5,3,9.9,121827.21
+BlueBird Air,4.2,4.6,11.3,121367.71
+Pacific Horizon,5.7,2,5.9,114247.75
+AirNova Express,6.7,2.2,6.7,108083.81
+StellarAir,6.7,2.9,9.3,109636.6
+SkyBridge,6.6,4.9,10.7,131442.49
+SkyJet Airways,4.5,4.7,10.5,117351.39
+SkyBridge,4.8,4.3,5.8,131165
+Quantum Skies,4.7,4.4,8.2,114155.73
+SkyBridge,4.7,3.8,7.8,113358.09
+AeroGlide,6.9,2.5,9.5,116990.35
+StellarAir,5,1.6,11.1,112836.46
+Zenith Flights,6.9,2.4,5.8,118036.91
+EagleFly,5.3,4.9,5.8,131985.14
+FalconWings,4.8,4,5,132767.25
+StellarAir,6.1,4.8,10.2,110911.05
+Altitude Air,4.2,3.8,7.3,114417.47
+BlueBird Air,6.2,2.6,7.2,117251.79
+Orion Wings,6.1,3.4,6.3,124947.88
+Orion Wings,6,4.7,9.3,114028.5
+StellarAir,6.5,2.6,6.5,128572.76
+PolarStream,6,3.1,8.1,111411.04
+Quantum Skies,6.4,4.9,10.2,124765.52
+Northern Skies,5.5,3.7,7.3,129552.7
+SkyBridge,6,2.3,6.4,105732.76
+SkyBridge,7,3.6,10.4,118662.49
+Zenith Flights,4.6,3.9,8.5,112319.53
+SkyJet Airways,6.7,4.5,11.2,128352.61
+SkyBridge,4.5,4.9,8.6,106506.55
+SkyBridge,6.8,1.9,5.9,118939.3
+Velocity Wings,7,3.6,11.7,131742.78
+PolarStream,6.4,4.6,8,132205.64
+NovaJet,6.7,4.1,8.3,112775.75
+SkyBridge,6.5,2.5,10.4,119537.91
+SkyBridge,4.8,1.8,7,113151.45
+EagleFly,6.7,1.8,6.1,116491.06
+CloudLine,6.1,1.7,7.9,121278.33
+Altitude Air,4.2,4.4,7.7,128093.87
+SkyJet Airways,6.6,4.2,7.7,105176.88
