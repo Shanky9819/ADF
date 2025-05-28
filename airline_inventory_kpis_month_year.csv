@@ -1,0 +1,61 @@
+Airline,Month Year,Warehouse Location,Part Type,Supplier,Priority,Inventory Status,Inventory Turns,Stockout Rate (%),Aging Stock (%),Avg. Holding Cost (USD),AOG Impact Hours,Line Maint. Avail. (%),Heavy Maint. Ready (%),Avg. Cost per Flight Hour
+SkyJet Airways,Mar-23,Dallas,Engine Components,GE Aviation,High,Available,6.2,2.5,6.8,128450,18.3,98.8,75,50.76
+AirNova Express,Jul-24,Miami,Avionics,Rolls-Royce,Medium,Backordered,5.1,3.9,9.2,117300,49.3,95.8,71,61.38
+FalconWings,Jan-25,Chicago,Landing Gear,Safran,Low,In Transit,4.8,4.2,10.5,124800,27.4,99.2,78.5,55.16
+AeroGlide,May-22,Atlanta,Cabin Equipment,Honeywell,Medium,Reserved,6.4,1.8,5.9,110500,28.4,87.3,82.4,64.58
+JetStream Air,Dec-23,Los Angeles,Navigation Instruments,Pratt & Whitney,High,Available,5.7,2.3,7.1,122200,49.58,90.79,85.91,44.23
+BlueBird Air,Aug-22,New York,Hydraulics,GE Aviation,Medium,Available,6,1.9,6.2,119300,9.25,44.45,44.18,51.09
+Sunward Airways,Apr-24,Denver,Engine Components,Rolls-Royce,High,Reserved,4.9,4,11,126800,21.46,3.89,8.53,12.88
+Northern Skies,Oct-22,Chicago,Avionics,Honeywell,Low,Backordered,5.3,3.5,9.4,115700,80.72,9.84,5.7,39.71
+EagleFly,Feb-25,Dallas,Cabin Equipment,Safran,High,In Transit,6.1,2.2,7,121500,7.09,66.85,67.71,20.68
+Pacific Horizon,Nov-23,Atlanta,Fuel System,Pratt & Whitney,Medium,Available,5,3.1,8.3,118900,29.58,65.05,49.76,36.19
+Orion Wings,Jun-22,Miami,Landing Gear,GE Aviation,Low,Reserved,4.5,4.4,10.7,125600,71.33,20.71,67.75,98.68
+Altitude Air,Sep-23,Los Angeles,Engine Components,Honeywell,High,Backordered,5.8,2,6.1,113200,68.43,59.89,79.69,8.92
+NovaJet,May-24,New York,Navigation Instruments,Rolls-Royce,Medium,Available,6.3,1.7,5.3,109800,80.34,69.69,65.28,77.59
+Quantum Skies,Jan-23,Denver,Avionics,Safran,Low,In Transit,4.7,4.7,11.2,127400,68.53,1.63,74.68,49.71
+Velocity Wings,Oct-24,Atlanta,Cabin Equipment,GE Aviation,High,Available,5.9,2.4,6.6,120100,18.3,98.8,75,50.76
+StellarAir,Mar-22,Dallas,Fuel System,Honeywell,Medium,Backordered,5.4,3,8,116700,49.3,95.8,71,61.38
+Zenith Flights,Aug-23,Chicago,Landing Gear,Pratt & Whitney,Low,Reserved,4.6,4.6,10.1,124200,27.4,99.2,78.5,55.16
+PolarStream,Dec-24,Los Angeles,Hydraulics,Rolls-Royce,High,Available,6,1.6,5.5,111900,28.4,87.3,82.4,64.58
+SkyBridge,Jul-22,Miami,Engine Components,Safran,Medium,In Transit,5.2,3.8,9,117800,49.58,90.79,85.91,44.23
+Sunward Airways,Feb-23,Denver,Avionics,GE Aviation,High,Reserved,4.9,4.3,10.8,126500,9.25,44.45,44.18,51.09
+AirNova Express,Jun-24,Atlanta,Landing Gear,Honeywell,Low,Available,5.6,2.9,8.4,119600,21.46,3.89,8.53,12.88
+FalconWings,Sep-22,Dallas,Cabin Equipment,Pratt & Whitney,Medium,In Transit,4.4,4.8,11.5,128200,80.72,9.84,5.7,39.71
+EagleFly,Jan-24,Chicago,Navigation Instruments,Rolls-Royce,High,Reserved,5.3,3.2,8.9,118300,7.09,66.85,67.71,20.68
+Pacific Horizon,Apr-23,New York,Fuel System,GE Aviation,Low,Backordered,6.1,1.9,6,112500,29.58,65.05,49.76,36.19
+Orion Wings,Jul-23,Los Angeles,Hydraulics,Safran,Medium,Available,4.7,4.1,10.3,123100,71.33,20.71,67.75,98.68
+Altitude Air,Oct-24,Denver,Engine Components,Honeywell,High,Reserved,5.5,2.1,6.4,115900,68.43,59.89,79.69,8.92
+NovaJet,May-22,Miami,Avionics,Pratt & Whitney,Low,Backordered,5.9,2.6,7.2,120400,80.34,69.69,65.28,77.59
+Quantum Skies,Aug-23,Atlanta,Cabin Equipment,Rolls-Royce,High,Available,6.3,1.5,5.6,110800,68.53,1.63,74.68,49.71
+Velocity Wings,Dec-22,Chicago,Landing Gear,GE Aviation,Medium,In Transit,4.6,4.5,10.9,125100,80.72,9.84,5.7,39.71
+StellarAir,Mar-25,New York,Navigation Instruments,Safran,Low,Reserved,5.8,2.8,8.2,116300,7.09,66.85,67.71,20.68
+Zenith Flights,Jun-23,Los Angeles,Fuel System,Honeywell,High,Available,6,2,6.3,113400,29.58,65.05,49.76,36.19
+PolarStream,Nov-22,Dallas,Engine Components,Pratt & Whitney,Medium,Backordered,4.9,4,9.5,122700,71.33,20.71,67.75,98.68
+SkyBridge,Feb-24,Miami,Avionics,Rolls-Royce,Low,In Transit,5.7,2.3,7.5,119200,68.43,59.89,79.69,8.92
+Sunward Airways,Jan-22,Denver,Cabin Equipment,GE Aviation,High,Reserved,5.2,3.7,9.1,117600,80.34,69.69,65.28,77.59
+SkyJet Airways,Apr-24,Atlanta,Landing Gear,Honeywell,Medium,Available,6.1,1.6,5.4,111700,68.53,1.63,74.68,49.71
+AirNova Express,Jul-23,Chicago,Navigation Instruments,Safran,Low,Backordered,4.5,4.6,11.4,126900,27.4,99.2,78.5,55.16
+FalconWings,Oct-22,New York,Hydraulics,Pratt & Whitney,High,Available,5.6,2.2,6.7,114800,28.4,87.3,82.4,64.58
+AeroGlide,Mar-23,Los Angeles,Engine Components,GE Aviation,Medium,In Transit,5,3.4,8.6,120600,49.58,90.79,85.91,44.23
+JetStream Air,Jun-22,Dallas,Avionics,Rolls-Royce,Low,Reserved,4.8,4.3,10.2,124300,9.25,44.45,44.18,51.09
+BlueBird Air,Sep-23,Miami,Cabin Equipment,Honeywell,High,Available,6.2,1.7,5.7,112200,21.46,3.89,8.53,12.88
+Pacific Horizon,Mar-23,Denver,Cabin Equipment,GE Aviation,Medium,In Transit,6.2,1.7,5.3,113200,80.72,9.84,5.7,39.71
+Orion Wings,Jul-24,Atlanta,Navigation Instruments,Honeywell,High,Available,5.1,4.7,11.2,109800,7.09,66.85,67.71,20.68
+Altitude Air,Jan-25,Dallas,Hydraulics,Pratt & Whitney,Medium,Reserved,4.8,2.4,6.6,127400,29.58,65.05,49.76,36.19
+NovaJet,May-22,Chicago,Engine Components,Rolls-Royce,High,Backordered,6.4,3,8,120100,71.33,20.71,67.75,98.68
+Quantum Skies,Dec-23,New York,Avionics,GE Aviation,Low,Available,5.7,4.6,10.1,116700,68.43,59.89,79.69,8.92
+Velocity Wings,Aug-22,Los Angeles,Cabin Equipment,Safran,High,In Transit,4.7,1.6,5.5,124200,80.34,69.69,65.28,77.59
+StellarAir,Apr-24,Denver,Fuel System,Honeywell,Medium,Available,5.5,3.8,9,111900,68.53,1.63,74.68,49.71
+Zenith Flights,Oct-22,Miami,Landing Gear,Pratt & Whitney,Low,Backordered,5.9,4.3,10.8,117800,80.72,9.84,5.7,39.71
+PolarStream,Feb-25,Atlanta,Engine Components,Rolls-Royce,High,Reserved,6.3,2.9,8.4,126500,7.09,66.85,67.71,20.68
+SkyBridge,Nov-23,Chicago,Navigation Instruments,GE Aviation,Medium,Available,4.6,4.8,11.5,119600,29.58,65.05,49.76,36.19
+Sunward Airways,Jun-22,New York,Avionics,Safran,Low,In Transit,5.8,3.2,8.9,128200,71.33,20.71,67.75,98.68
+AirNova Express,Sep-23,Los Angeles,Cabin Equipment,Honeywell,High,Reserved,6,1.9,6,118300,68.43,59.89,79.69,8.92
+FalconWings,May-24,Dallas,Fuel System,Pratt & Whitney,Medium,Available,4.9,4.1,10.3,112500,80.34,69.69,65.28,77.59
+EagleFly,Jan-23,Miami,Landing Gear,Rolls-Royce,Low,In Transit,5.7,2.1,6.4,123100,68.53,1.63,74.68,49.71
+Pacific Horizon,Oct-24,Denver,Hydraulics,GE Aviation,High,Reserved,5.2,2.6,7.2,115900,27.4,99.2,78.5,55.16
+Orion Wings,Mar-22,Atlanta,Engine Components,Honeywell,Medium,Backordered,6.1,1.5,5.6,120400,28.4,87.3,82.4,64.58
+Altitude Air,Aug-23,Chicago,Avionics,Safran,High,Available,4.5,4.5,10.9,110800,49.58,90.79,85.91,44.23
+NovaJet,Dec-24,New York,Landing Gear,Pratt & Whitney,Low,Reserved,5.6,2.8,8.2,125100,9.25,44.45,44.18,51.09
+Quantum Skies,Jul-22,Los Angeles,Cabin Equipment,GE Aviation,Medium,Backordered,5,2,6.3,116300,21.46,3.89,8.53,12.88
+Velocity Wings,Jan-23,Dallas,Navigation Instruments,Rolls-Royce,High,Available,4.8,4,10.9,113400,71.33,20.71,67.75,98.68
